@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Write Your Name and Student ID Here!"
+author: "Amirarsalan faghani and 21080056!"
 ---
 
 ```{r global_options, include=FALSE}
@@ -13,40 +13,48 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-Write Your Answer Here!
+**homework**
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+I love to eat ice cream with a hint of **vanilla** flavor
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+I enjoy eating a scoop of **chocolate _fudge_** ice cream on a hot summer day.
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+- Item 1
+- Item 2
+- Item 3
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. First item
+2. Second item
+3. Third item
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-Write Your Answer Here!
+[My GitHub](https://github.com/amirarsalanfgh)
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![cat](https://i.pinimg.com/originals/4e/cd/51/4ecd51c8f4b135d09b78e23684b73262.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
-
+```{r}
+2 + 2
+```
 **Question 9** With $LaTeX$ write your favorite equation in block form.
+$$
+y = mx + b
+$$
 
-Write Your Answer Here!
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+```{r}
+3 + 4
